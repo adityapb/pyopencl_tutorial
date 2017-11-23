@@ -1,6 +1,0 @@
-1. Install numpy, jupyter
-
-2. Install pyopencl (instructions: https://wiki.tiker.net/PyOpenCL/Installation)
-   No need to install the optional section in the instructions.
-
-3. The workshop resources will be available at https://github.com/adityapb/pyopencl_tutorial by 26th November.
