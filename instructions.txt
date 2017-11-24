@@ -1,0 +1,8 @@
+1. Install numpy, jupyter
+
+2. Install pyopencl (instructions: https://wiki.tiker.net/PyOpenCL/Installation)
+   No need to install the optional section in the instructions.
+   
+3. If you're not able to install pyopencl on your machine, follow these (https://github.com/inducer/languages-and-codegen-tutorial#virtual-machine-image) instructions upto step 5 to set up a virtual machine with pyopencl installed on it.
+
+4. The workshop notebooks will be available at https://github.com/adityapb/pyopencl_tutorial by 27th November.
