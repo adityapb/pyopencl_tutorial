@@ -1,6 +1,6 @@
 FROM chihchun/opencl-beignet
 
-RUN sudo apt-get update
+RUN apt-get update
 
-RUN sudo apt-get install python-pyopencl
+RUN apt-get install python-pyopencl
 
