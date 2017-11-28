@@ -1,4 +1,4 @@
-FROM syoyo/llvm3.4-polly-pocl
+FROM chihchun/opencl-beignet
 
 RUN sudo apt-get update
 
