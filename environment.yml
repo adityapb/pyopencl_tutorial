@@ -1,0 +1,8 @@
+name: pyopencl-tut-env
+channels:
+  - conda-forge
+dependencies:
+  - python
+  - numpy
+  - pocl
+  - pyopencl
