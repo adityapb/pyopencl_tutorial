@@ -1,6 +1,6 @@
-FROM chihchun/opencl-beignet
+FROM continuumio/miniconda
 
-RUN apt-get update
+RUN conda config --add channels conda-forge
 
-RUN apt-get install -y python-pyopencl
+RUN conda install pocl pyopencl
 
